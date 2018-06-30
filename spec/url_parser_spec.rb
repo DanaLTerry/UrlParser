@@ -1,3 +1,6 @@
+require_relative "../url_parser.rb"
+
+
 describe UrlParser do
   context 'with all parts' do
     before(:each) do
